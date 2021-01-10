@@ -4,7 +4,3 @@
 UserName : nitro
 Password : admin
 
-# food-all
-# Food
-# food
-# food
